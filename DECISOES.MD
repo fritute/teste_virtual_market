@@ -17,7 +17,7 @@ Essas decisões visam garantir um banco de dados normalizado, de fácil manuten�
 
 A modelagem foi feita utilizando o conceito de normalização, separando as entidades principais e intermediárias para garantir integridade e flexibilidade. O diagrama abaixo ilustra as tabelas e seus relacionamentos:
 
-![Diagrama do Banco de Dados](https://user-images.githubusercontent.com/placeholder/diagrama-banco-dados.png)
+![Diagrama do Banco de Dados](./drawSQL-image-export-2026-02-16.png)
 
 Principais tabelas:
 - **produtos**: armazena informações dos produtos.
